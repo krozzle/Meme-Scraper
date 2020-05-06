@@ -1,0 +1,14 @@
+{
+  "name": "meme-scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/krozzle/Meme-Scraper.git",
+  "author": "Christopher Wattaul <chris.wattaul@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "crawler": "^1.2.1",
+    "node-image-downloader": "^1.0.7",
+    "request": "^2.88.2"
+  }
+}
